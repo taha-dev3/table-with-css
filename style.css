@@ -39,4 +39,8 @@ td:hover{
          transition: 1s;
          box-shadow: -6px 6px 1px wheat;
          color: #000;
+
+}
+#pink{
+     color: rgb(219, 19, 86);
 }
